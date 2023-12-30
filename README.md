@@ -36,7 +36,7 @@ To explore a project:
 
 ## Project List
 
-1. [Customer Analtytics Dashboard](https://github.com/Oyeniran20/Excel-/tree/main/Customer%20FeedBack%20Dashboard): Brief description of Project 1.
+1. [Customer Analtytics Dashboard](https://github.com/Oyeniran20/Excel-/tree/main/Customer%20FeedBack%20Dashboard): This project aims to create a comprehensive customer analytics report using Excel to visualize and derive insights from hotel feedback data. .
 2. [Project 2](./Project2): Brief description of Project 2.
 
 
