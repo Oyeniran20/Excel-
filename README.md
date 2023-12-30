@@ -36,7 +36,7 @@ To explore a project:
 
 ## Project List
 
-1. [Customer Analtytics Dashboard](./Project1): Brief description of Project 1.
+1. [Customer Analtytics Dashboard](https://github.com/Oyeniran20/Excel-/tree/main/Customer%20FeedBack%20Dashboard): Brief description of Project 1.
 2. [Project 2](./Project2): Brief description of Project 2.
 
 
