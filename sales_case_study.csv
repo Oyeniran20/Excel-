@@ -1,0 +1,111 @@
+Transaction_ID,Customer_Age,Product_Category,Sales_Amount,Payment_Method,Discount_Applied
+TXN1,56.0,Groceries,344.24,Debit Card,
+TXN2,46.0,Clothing,943.48,Mobile Payment,15.0
+TXN3,32.0,Electronics,329.97,Credit Card,
+TXN4,60.0,Furniture,,Credit Card,15.0
+TXN5,25.0,Groceries,705.99,Mobile Payment,10.0
+TXN6,38.0,Electronics,369.99,Credit Card,15.0
+TXN7,56.0,Furniture,972.06,Credit Card,
+TXN8,36.0,Furniture,962.82,Cash,5.0
+TXN9,40.0,Clothing,259.26,Credit Card,15.0
+TXN10,28.0,Electronics,502.28,Debit Card,5.0
+TXN11,28.0,Furniture,307.87,Debit Card,10.0
+TXN12,41.0,Groceries,291.99,Mobile Payment,0.0
+TXN13,53.0,Groceries,46.52,Credit Card,10.0
+TXN14,57.0,Clothing,613.47,Mobile Payment,15.0
+TXN15,41.0,Furniture,507.65,Debit Card,5.0
+TXN16,20.0,Unknown,60.96,Credit Card,5.0
+TXN17,39.0,Groceries,285.86,Credit Card,
+TXN18,19.0,Furniture,909.18,Mobile Payment,5.0
+TXN19,41.0,Furniture,247.17,Debit Card,
+TXN20,61.0,Clothing,153.45,Credit Card,0.0
+TXN21,47.0,Groceries,494.56,Mobile Payment,15.0
+TXN22,55.0,Groceries,985.79,Debit Card,
+TXN23,19.0,Electronics,,Mobile Payment,0.0
+TXN24,38.0,Groceries,675.41,Cash,5.0
+TXN25,50.0,Electronics,764.0,Credit Card,5.0
+TXN26,29.0,Groceries,245.26,Cash,0.0
+TXN27,39.0,Clothing,730.93,Debit Card,5.0
+TXN28,61.0,Groceries,374.11,Cash,0.0
+TXN29,42.0,Electronics,635.98,Cash,
+TXN30,44.0,Electronics,637.19,Debit Card,
+TXN31,59.0,Clothing,540.42,Mobile Payment,0.0
+TXN32,45.0,Unknown,99.39,Cash,
+TXN33,33.0,Groceries,836.95,Mobile Payment,
+TXN34,32.0,Clothing,327.57,Cash,
+TXN35,64.0,Groceries,194.65,,10.0
+TXN36,61.0,Groceries,50.37,Debit Card,15.0
+TXN37,20.0,Electronics,594.98,Cash,5.0
+TXN38,54.0,Groceries,680.79,Debit Card,10.0
+TXN39,24.0,Groceries,,Cash,
+TXN40,38.0,Clothing,,Debit Card,0.0
+TXN41,26.0,Clothing,234.23,,
+TXN42,56.0,Furniture,648.72,Cash,15.0
+TXN43,35.0,Electronics,182.62,Cash,
+TXN44,21.0,Groceries,694.03,Cash,0.0
+TXN45,42.0,Groceries,392.87,Credit Card,15.0
+TXN46,31.0,Furniture,937.36,Mobile Payment,
+TXN47,26.0,Groceries,146.15,Credit Card,15.0
+TXN48,43.0,Electronics,347.66,Credit Card,5.0
+TXN49,19.0,Furniture,122.34,Debit Card,5.0
+TXN50,37.0,Electronics,925.45,Cash,
+TXN51,45.0,Unknown,878.57,Mobile Payment,15.0
+TXN52,64.0,Furniture,265.36,Debit Card,0.0
+TXN53,24.0,Clothing,663.38,Credit Card,
+TXN54,61.0,Electronics,819.05,Cash,5.0
+TXN55,25.0,Groceries,559.65,Debit Card,5.0
+TXN56,64.0,Groceries,534.35,Cash,
+TXN57,52.0,Electronics,249.43,Debit Card,15.0
+TXN58,31.0,Groceries,102.17,,5.0
+TXN59,34.0,Groceries,898.24,Credit Card,15.0
+TXN60,53.0,Electronics,901.41,Mobile Payment,5.0
+TXN61,57.0,Furniture,636.77,Other,5.0
+TXN62,21.0,Electronics,345.64,Mobile Payment,10.0
+TXN63,,Furniture,355.72,Cash,5.0
+TXN64,23.0,Groceries,728.7,Debit Card,0.0
+TXN65,59.0,Groceries,898.14,Credit Card,
+TXN66,21.0,Groceries,888.22,Mobile Payment,
+TXN67,46.0,Clothing,,,15.0
+TXN68,35.0,Furniture,645.61,Mobile Payment,5.0
+TXN69,43.0,Clothing,93.3,Credit Card,0.0
+TXN70,61.0,Clothing,170.01,Mobile Payment,15.0
+TXN71,51.0,Electronics,899.57,Mobile Payment,10.0
+TXN72,27.0,Clothing,610.36,Cash,15.0
+TXN73,53.0,Electronics,19.11,Mobile Payment,15.0
+TXN74,31.0,Electronics,110.46,Cash,5.0
+TXN75,48.0,Clothing,666.87,Mobile Payment,10.0
+TXN76,32.0,Furniture,,Debit Card,15.0
+TXN77,25.0,Furniture,169.2,Debit Card,0.0
+TXN78,31.0,Furniture,553.25,Debit Card,0.0
+TXN79,40.0,Furniture,694.98,Mobile Payment,
+TXN80,,Furniture,655.44,Cash,10.0
+TXN81,38.0,Clothing,232.03,Cash,10.0
+TXN82,33.0,Clothing,715.06,Mobile Payment,
+TXN83,62.0,Groceries,244.88,Debit Card,15.0
+TXN84,35.0,Furniture,332.15,Debit Card,10.0
+TXN85,64.0,Clothing,749.03,Cash,0.0
+TXN86,41.0,Groceries,653.14,,0.0
+TXN87,,Furniture,850.73,Credit Card,5.0
+TXN88,42.0,Electronics,661.04,Cash,10.0
+TXN89,62.0,Groceries,572.63,Other,15.0
+TXN90,58.0,Clothing,102.74,Cash,
+TXN91,46.0,Electronics,374.04,Credit Card,
+TXN92,32.0,Electronics,272.55,Cash,15.0
+TXN93,62.0,Electronics,251.55,Cash,5.0
+TXN94,18.0,Groceries,973.28,Cash,
+TXN95,,Clothing,399.17,Cash,10.0
+TXN96,24.0,Electronics,893.13,,5.0
+TXN97,26.0,Furniture,634.83,Mobile Payment,10.0
+TXN98,41.0,Electronics,796.86,Cash,0.0
+TXN99,18.0,Electronics,507.61,Cash,5.0
+TXN100,61.0,Groceries,581.13,Debit Card,
+TXN101,25.0,Groceries,497.59,Cash,5.0
+TXN102,,Clothing,203.29,Debit Card,5.0
+TXN103,28.0,Furniture,725.23,Mobile Payment,5.0
+TXN104,34.0,Groceries,287.96,Credit Card,5.0
+TXN105,,Electronics,34.07,Credit Card,10.0
+TXN106,52.0,Clothing,649.02,Mobile Payment,0.0
+TXN107,52.0,Electronics,185.34,Credit Card,15.0
+TXN108,50.0,Electronics,941.05,Mobile Payment,5.0
+TXN109,22.0,Groceries,954.39,Mobile Payment,
+TXN110,59.0,Clothing,915.72,Mobile Payment,5.0
